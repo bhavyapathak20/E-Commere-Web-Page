@@ -1,0 +1,32 @@
+body{
+    margin: 0px;
+    text-decoration: none;
+}
+
+.btn{
+    outline: none;
+    margin: 9px;
+    border:none;
+    width: 80px;
+    height: 80px;
+    position: relative;
+    left: 250px;
+    top: 500px;
+    border-radius: 10px;
+    background-size: 80px; 
+}
+.btn1{
+    background-image: url(images/image-product-1-thumbnail.jpg);
+}
+
+.btn2{
+    background-image: url(images/image-product-2-thumbnail.jpg);
+}
+
+.btn3{
+    background-image: url(images/image-product-3-thumbnail.jpg);
+}
+
+.btn4{
+    background-image: url(images/image-product-4-thumbnail.jpg);
+}
